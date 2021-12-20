@@ -1,13 +1,10 @@
 song song
-song song
+
 standing strong 
 on this their chosen battle field
-<<<<<<< HEAD
 
 sword and spear
 
 buy buy
 
 --
-=======
->>>>>>> parent of 6f4de69 (one lines add)
